@@ -39,6 +39,12 @@ grid_options:
 
 `grid_options` only works in the **sections view**.
 
+## Visual editor
+
+When adding or editing the card from the Home Assistant dashboard UI, use the
+visual editor to set the number of columns and rows. The editor writes the same
+`grid_options` values as the YAML configuration above.
+
 ## License
 
 MIT
